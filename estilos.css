@@ -1,0 +1,60 @@
+body {	
+	background:#000000;
+	color:#fff;
+}
+.Texto{
+	text-align: center;
+}
+.Texto h1{
+	color:red;
+	font-size: 150%;
+	text-align: center;
+}
+.Texto h2{
+	color:skyblue;
+	font-size: 150%;
+	text-align: center;
+}
+.Texto h3{
+	color:purple;
+	font-size: 150%;
+	text-align: center;
+}
+.Texto h4{
+	color:purple;
+	font-size: 100%;
+	text-align: center;
+}
+.Texto h5{
+	color:purple;
+	font-size: 100%;
+	text-align: center;
+}
+.Texto h6{
+	color:purple;
+	font-size: 100%;
+	text-align: center;
+}
+.Texto h7{
+	color:purple;
+	font-size: 100%;
+	text-align: center;
+}
+.Texto h8{
+	color:purple;
+	font-size: 100%;
+	text-align: center;
+}
+.Texto2 h1{
+	color:purple;
+	font-size: 200%;
+	text-align: center;
+}
+
+.fotos{
+	text-align: center;
+}
+
+.llamar{
+	text-align: center;
+}
